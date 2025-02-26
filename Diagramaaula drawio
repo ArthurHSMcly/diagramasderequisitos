@@ -337,10 +337,71 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jBXCJ7iy1Fz_XvdL-gNL" name="Página-5">
-    <mxGraphModel dx="1674" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2874" dy="1622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-6" value="Web cliente&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="-530" width="57" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-7" value="Administrador&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-798" y="-316" width="48" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-8" value="Finalizar o&lt;br&gt;jogo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-464" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-757" y="-319" as="sourcePoint" />
+            <mxPoint x="-685" y="-385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-622" y="-448" as="sourcePoint" />
+            <mxPoint x="-543" y="-529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-11" value="Programar o&lt;br&gt;jogo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-708" y="-454" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-12" value="Fazer o&amp;nbsp;&lt;br&gt;cadastro&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-515" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-13" value="Colocar&lt;br&gt;atualizações&lt;br&gt;no jogo&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-581" y="-263" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h8AKQ4A73_0JqLw6hYuH-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-589" y="-406" as="sourcePoint" />
+            <mxPoint x="-334" y="-562" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="h8AKQ4A73_0JqLw6hYuH-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-621" y="-376" as="sourcePoint" />
+            <mxPoint x="-571" y="-426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-16" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-807" y="-728" width="44" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-17" value="Fazer o jogo&lt;br&gt;rodar em&amp;nbsp;&lt;br&gt;qualquer&amp;nbsp;&lt;br&gt;computador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-574" y="-604" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-18" value="Fazer o mapa&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="-724" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-484" y="-599" as="sourcePoint" />
+            <mxPoint x="-424" y="-654" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8AKQ4A73_0JqLw6hYuH-20" value="Criar o&amp;nbsp;&lt;br&gt;personagem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-369" y="-569" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
