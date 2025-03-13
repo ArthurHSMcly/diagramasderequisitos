@@ -334,7 +334,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="14JlLb6DudUOsbeb8DSh" name="Página-4">
+  <diagram id="14JlLb6DudUOsbeb8DSh" name="caso de uso">
     <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -445,7 +445,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Bkl0SfCUdgLyKdXVt4Cz" name="Página-7">
+  <diagram id="Bkl0SfCUdgLyKdXVt4Cz" name="diagrama de classes">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -541,7 +541,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="nfaEch6CLvuJYFfSLP10" name="Página-8">
+  <diagram id="nfaEch6CLvuJYFfSLP10" name="sequência">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -718,8 +718,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6zSiuVQ_VJbN5DHbxXLl" name="Página-9">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="6zSiuVQ_VJbN5DHbxXLl" name="atividades">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
