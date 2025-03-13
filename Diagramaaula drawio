@@ -1090,7 +1090,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FUvkvaZui1PHTTiyp3KM" name="Página-9">
+  <diagram id="FUvkvaZui1PHTTiyp3KM" name="componentes">
     <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1199,6 +1199,15 @@
               <mxPoint y="184" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jjW1LJV4NVCqwli5g317-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=85;exitDy=14;exitPerimeter=0;" edge="1" parent="1" target="jjW1LJV4NVCqwli5g317-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="339" as="sourcePoint" />
+            <mxPoint x="160" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jjW1LJV4NVCqwli5g317-35" value="&lt;b&gt;pesquisa do sistema&lt;/b&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
