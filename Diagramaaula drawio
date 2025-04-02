@@ -1709,6 +1709,69 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-1" value="Passageiro" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-2" value="Fazer&lt;div&gt;check-in&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-3" value="Compra&amp;nbsp;&lt;div&gt;passagem&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-4" value="Cadastrar&amp;nbsp;&lt;div&gt;voos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-5" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="200" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-6" value="Gerenciar&lt;div&gt;reservas&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-7" value="Permitir&lt;div&gt;pousos e&lt;/div&gt;&lt;div&gt;decolagem&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-8" value="Funcionário&lt;div&gt;(torre de controle)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="560" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.675;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J-ZaHaw0Vmoq_mC_yvTw-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="550" as="sourcePoint" />
+            <mxPoint x="940" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-10" value="Gerenciar&lt;div&gt;pistas&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.267;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J-ZaHaw0Vmoq_mC_yvTw-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="550" as="sourcePoint" />
+            <mxPoint x="950" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J-ZaHaw0Vmoq_mC_yvTw-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="280" as="sourcePoint" />
+            <mxPoint x="1250" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J-ZaHaw0Vmoq_mC_yvTw-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="190" as="sourcePoint" />
+            <mxPoint x="110" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="J-ZaHaw0Vmoq_mC_yvTw-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="200" as="sourcePoint" />
+            <mxPoint x="1640" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-ZaHaw0Vmoq_mC_yvTw-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="J-ZaHaw0Vmoq_mC_yvTw-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="270" as="sourcePoint" />
+            <mxPoint x="1620" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
